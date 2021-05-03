@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="13"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\kevit\Downloads\State-OrderManagement\target\test-classes;C:\Users\kevit\Downloads\State-OrderManagement\target\classes;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\kevit\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\kevit\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\kevit\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\kevit\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
+    <property name="java.class.path" value="C:\Users\kevit\Documents\GitHub\PatronState\State-OrderManagement\target\test-classes;C:\Users\kevit\Documents\GitHub\PatronState\State-OrderManagement\target\classes;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\kevit\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\kevit\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\kevit\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\kevit\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,10 +15,10 @@
     <property name="user.country" value="CO"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\kevit\AppData\Local\Temp\surefire9630571196519076669\surefirebooter13462217915963240776.jar C:\Users\kevit\AppData\Local\Temp\surefire9630571196519076669 2021-05-02T23-41-40_878-jvmRun1 surefire886167757708057946tmp surefire_0853449914542494595tmp"/>
+    <property name="sun.java.command" value="C:\Users\kevit\AppData\Local\Temp\surefire13453871726767707818\surefirebooter4110086236335381399.jar C:\Users\kevit\AppData\Local\Temp\surefire13453871726767707818 2021-05-03T00-04-47_246-jvmRun1 surefire9610328760704905339tmp surefire_014233118709779667110tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="co.unicauca.serversocket.ordermanagement.domain.OrderTest"/>
-    <property name="surefire.test.class.path" value="C:\Users\kevit\Downloads\State-OrderManagement\target\test-classes;C:\Users\kevit\Downloads\State-OrderManagement\target\classes;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\kevit\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\kevit\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\kevit\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\kevit\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\kevit\Documents\GitHub\PatronState\State-OrderManagement\target\test-classes;C:\Users\kevit\Documents\GitHub\PatronState\State-OrderManagement\target\classes;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\kevit\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\kevit\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\kevit\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\kevit\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\kevit\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\kevit"/>
     <property name="user.language" value="es"/>
@@ -26,12 +26,12 @@
     <property name="java.version.date" value="2020-01-14"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-13.0.2"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\kevit\Downloads\State-OrderManagement"/>
+    <property name="basedir" value="C:\Users\kevit\Documents\GitHub\PatronState\State-OrderManagement"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\kevit\AppData\Local\Temp\surefire9630571196519076669\surefirebooter13462217915963240776.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kevit\AppData\Local\Temp\surefire13453871726767707818\surefirebooter4110086236335381399.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="13.0.2+8"/>
@@ -46,7 +46,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\kevit\AppData\Local\Temp\"/>
     <property name="java.version" value="13.0.2"/>
-    <property name="user.dir" value="C:\Users\kevit\Downloads\State-OrderManagement"/>
+    <property name="user.dir" value="C:\Users\kevit\Documents\GitHub\PatronState\State-OrderManagement"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -57,7 +57,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="57.0"/>
   </properties>
-  <testcase name="testNormalFlow" classname="co.unicauca.serversocket.ordermanagement.domain.OrderTest" time="0.063"/>
+  <testcase name="testNormalFlow" classname="co.unicauca.serversocket.ordermanagement.domain.OrderTest" time="0.047"/>
   <testcase name="testExceptionalFlow" classname="co.unicauca.serversocket.ordermanagement.domain.OrderTest" time="0"/>
   <testcase name="AlternativeFlow" classname="co.unicauca.serversocket.ordermanagement.domain.OrderTest" time="0"/>
 </testsuite>
